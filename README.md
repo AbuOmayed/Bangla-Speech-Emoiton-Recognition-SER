@@ -1,12 +1,12 @@
 # Bangla Speech Emotion Recognition (SER) – Figure Repository
 
-This repository contains visualization figures supporting a research study on **Bangla Speech Emotion Recognition (SER)**. The study incorporates:
+This repository contains visualizations supporting a research study on **Bangla Speech Emotion Recognition (SER)**. The study incorporates:
 
 - **Feature fusion** and **summary statistics**
 - **Dimensionality reduction** techniques: PCA, ICA, and LDA
 - **Classification models**: K-Nearest Neighbors (KNN), Decision Tree, Random Forest (RF), and XGBoost
 
-Each image illustrates model performance (accuracy, confusion matrix, or reduction analysis) for the **SUBESCO** and **KBES** Bangla speech emotion datasets.
+Each image illustrates model performance (accuracy, confusion matrix, or reduction analysis) on the **SUBESCO** and **KBES** Bangla speech emotion datasets.
 
 ---
 
@@ -14,31 +14,31 @@ Each image illustrates model performance (accuracy, confusion matrix, or reducti
 
 #### ✅ Decision Tree
 - **KBES Dataset**  
-  ![Decision Tree - KBES](https://github.com/user-attachments/assets/d67f4e92-ccb6-4499-96c6-b65266240ecb)
+  ![Decision Tree - KBES](https://github.com/user-attachments/assets/c0d8779a-1bf5-43b8-ba6d-3013a67e2209)
 
 - **SUBESCO Dataset**  
-  ![Decision Tree - SUBESCO](https://github.com/user-attachments/assets/1f7470b9-82e4-4dd9-ae9d-20f534c4faed)
+  ![Decision Tree - SUBESCO](https://github.com/user-attachments/assets/6a99a02c-5d28-4531-9833-14db385f084a)
 
 #### ✅ K-Nearest Neighbors (KNN)
 - **KBES Dataset**  
-  ![KNN - KBES](https://github.com/user-attachments/assets/5e3b884f-3897-4c3c-914c-7c9a95b09d25)
+  ![KNN - KBES](https://github.com/user-attachments/assets/126b3083-294a-4305-a253-71b90d9141ad)
 
 - **SUBESCO Dataset**  
-  ![KNN - SUBESCO](https://github.com/user-attachments/assets/fc15b35a-a347-4be7-b5e1-bf2d60d88a22)
+  ![KNN - SUBESCO](https://github.com/user-attachments/assets/8e8a44d8-a1f1-4a03-85a9-42d9ceeaef70)
 
 #### ✅ Random Forest (RF)
 - **KBES Dataset**  
-  ![RF - KBES](https://github.com/user-attachments/assets/20c7edc5-b90c-4e67-821c-2221dcf7ab51)
+  ![RF - KBES](https://github.com/user-attachments/assets/66be89e9-e5d0-4c44-8493-caf00284c51b)
 
 - **SUBESCO Dataset**  
-  ![RF - SUBESCO](https://github.com/user-attachments/assets/23eb5c58-2e1f-49ee-83c9-a97f0f592c16)
+  ![RF - SUBESCO](https://github.com/user-attachments/assets/b62e8015-5c0a-4ff5-9cd8-6b7b17f1a308)
 
 #### ✅ XGBoost
 - **KBES Dataset**  
-  ![XGBoost - KBES](https://github.com/user-attachments/assets/8f1151eb-7ad9-4713-9882-2490d8901911)
+  ![XGBoost - KBES](https://github.com/user-attachments/assets/ce44e7d1-2056-4091-93b2-539a9fd09cd9)
 
 - **SUBESCO Dataset**  
-  ![XGBoost - SUBESCO](https://github.com/user-attachments/assets/b7c45384-f490-4e4a-a677-008a962deb82)
+  ![XGBoost - SUBESCO](https://github.com/user-attachments/assets/66aab63c-4a64-47fb-8a06-45da13786e46)
 
 ---
 
@@ -46,21 +46,21 @@ Each image illustrates model performance (accuracy, confusion matrix, or reducti
 
 #### ✅ Confusion Matrix for RF Model
 - **SUBESCO Dataset**  
-  ![Confusion Matrix - SUBESCO](https://github.com/user-attachments/assets/7d0bd728-2601-419b-8d72-edd323018445)
+  ![Confusion Matrix - SUBESCO](https://github.com/user-attachments/assets/99442839-ad26-4f7e-9ada-53c9aecaad7d)
 
 - **KBES Dataset**  
-  ![Confusion Matrix - KBES](https://github.com/user-attachments/assets/9e15ecd2-148d-4ac3-b786-4fbb79922b49)
+  ![Confusion Matrix - KBES](https://github.com/user-attachments/assets/57bbf324-53c0-43fc-8020-e2f5da3fb96b)
 
-#### ✅ Accuracy Analysis (SUBESCO Dataset)
+#### ✅ Accuracy Analysis – SUBESCO Dataset
 - **Without Data Reduction**  
-  ![Without Reduction - SUBESCO](https://github.com/user-attachments/assets/c4512115-79d9-41d2-9644-890537c52a42)
+  ![Accuracy - SUBESCO (No Reduction)](https://github.com/user-attachments/assets/db759a7f-cab2-4578-a47c-0bccbbc27b68)
 
 - **With Data Reduction**  
-  ![With Reduction - SUBESCO](https://github.com/user-attachments/assets/2919cb1b-ac18-423d-8869-7a26e21e2937)
+  ![Accuracy - SUBESCO (With Reduction)](https://github.com/user-attachments/assets/de9135b1-067f-4757-b1ef-56516f450e54)
 
-#### ✅ Accuracy Analysis (KBES Dataset)
+#### ✅ Accuracy Analysis – KBES Dataset
 - **Without Data Reduction**  
-  ![Without Reduction - KBES](https://github.com/user-attachments/assets/64f44a22-e2b9-48ba-bc6f-ee0c9e0ceb77)
+  ![Accuracy - KBES (No Reduction)](https://github.com/user-attachments/assets/c5f1f04c-3f31-4f60-8a4b-2b110c13628b)
 
 - **With Data Reduction**  
-  ![With Reduction - KBES](https://github.com/user-attachments/assets/5dc29b6e-79cb-4264-b9a2-b9c64ae9780f)
+  ![Accuracy - KBES (With Reduction)](https://github.com/user-attachments/assets/abc74692-a164-468d-b9b8-8cefefd7a1f0)
