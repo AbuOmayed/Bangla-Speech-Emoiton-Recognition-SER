@@ -60,7 +60,7 @@ Each image illustrates model performance (accuracy, confusion matrix, or reducti
 
 #### ✅ Accuracy Analysis – KBES Dataset
 - **With Data Reduction**  
-  <img src="https://github.com/user-attachments/assets/c5f1f04c-3f31-4f60-8a4b-2b110c13628b" alt="KBES - No Reduction" width="300"/>
+  <img src="https://github.com/user-attachments/assets/c5f1f04c-3f31-4f60-8a4b-2b110c13628b" alt="KBES - No Reduction" width="500"/>
 
 - **Without Data Reduction**  
-  <img src="https://github.com/user-attachments/assets/abc74692-a164-468d-b9b8-8cefefd7a1f0" alt="KBES - With Reduction" width="300"/>
+  <img src="https://github.com/user-attachments/assets/abc74692-a164-468d-b9b8-8cefefd7a1f0" alt="KBES - With Reduction" width="500"/>
