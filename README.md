@@ -52,15 +52,15 @@ Each image illustrates model performance (accuracy, confusion matrix, or reducti
   ![Confusion Matrix - KBES](https://github.com/user-attachments/assets/57bbf324-53c0-43fc-8020-e2f5da3fb96b)
 
 #### ✅ Accuracy Analysis – SUBESCO Dataset
-- **Without Data Reduction**  
-  ![Accuracy - SUBESCO (No Reduction)](https://github.com/user-attachments/assets/db759a7f-cab2-4578-a47c-0bccbbc27b68)
-
 - **With Data Reduction**  
-  ![Accuracy - SUBESCO (With Reduction)](https://github.com/user-attachments/assets/de9135b1-067f-4757-b1ef-56516f450e54)
+  ![Accuracy - SUBESCO (With Reduction)](https://github.com/user-attachments/assets/db759a7f-cab2-4578-a47c-0bccbbc27b68)
+
+- **Without Data Reduction**  
+  ![Accuracy - SUBESCO (Without Reduction)](https://github.com/user-attachments/assets/de9135b1-067f-4757-b1ef-56516f450e54)
 
 #### ✅ Accuracy Analysis – KBES Dataset
-- **Without Data Reduction**  
-  ![Accuracy - KBES (No Reduction)](https://github.com/user-attachments/assets/c5f1f04c-3f31-4f60-8a4b-2b110c13628b)
-
 - **With Data Reduction**  
-  ![Accuracy - KBES (With Reduction)](https://github.com/user-attachments/assets/abc74692-a164-468d-b9b8-8cefefd7a1f0)
+  ![Accuracy - KBES (With Reduction)](https://github.com/user-attachments/assets/c5f1f04c-3f31-4f60-8a4b-2b110c13628b)
+
+- **Without Data Reduction**  
+  ![Accuracy - KBES (Without Reduction)](https://github.com/user-attachments/assets/abc74692-a164-468d-b9b8-8cefefd7a1f0)
