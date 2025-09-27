@@ -28,7 +28,7 @@ Each image illustrates model performance (accuracy, confusion matrix, or reducti
 
 #### ✅ Random Forest (RF)
 - **KBES Dataset**  
-  <img src="https://github.com/user-attachments/assets/66be89e9-e5d0-4c44-8493-caf00284c51b" alt="RF - KBES" width="500"/>
+  <img src="https://github.com/user-attachments/assets/fedb1521-8c4b-4e94-8d24-ae6983327201" alt="RF - KBES" width="500"/>
 
 - **SUBESCO Dataset**  
   <img src="https://github.com/user-attachments/assets/b62e8015-5c0a-4ff5-9cd8-6b7b17f1a308" alt="RF - SUBESCO" width="500"/>
@@ -46,7 +46,7 @@ Each image illustrates model performance (accuracy, confusion matrix, or reducti
 
 #### ✅ Confusion Matrix for RF Model
 - **SUBESCO Dataset**  
-  <img src="https://github.com/user-attachments/assets/99442839-ad26-4f7e-9ada-53c9aecaad7d" alt="Confusion Matrix - SUBESCO" width="500"/>
+  <img src="https://github.com/user-attachments/assets/fedb1521-8c4b-4e94-8d24-ae6983327201" alt="Confusion Matrix - SUBESCO" width="500"/>
 
 - **KBES Dataset**  
   <img src="https://github.com/user-attachments/assets/57bbf324-53c0-43fc-8020-e2f5da3fb96b" alt="Confusion Matrix - KBES" width="500"/>
