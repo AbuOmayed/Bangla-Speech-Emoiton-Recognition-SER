@@ -4,7 +4,7 @@ This repository contains visualizations supporting a research study on **Bangla 
 
 - **Feature fusion** and **summary statistics**
 - **Dimensionality reduction** techniques: PCA, ICA, and LDA
-- **Multifaceted Approach
+- **Multifaceted Approach**
 - **Classification models**: K-Nearest Neighbors (KNN), Decision Tree, Random Forest (RF), and XGBoost
 
 Each image illustrates model performance (accuracy, confusion matrix, or reduction analysis) on the **SUBESCO** and **KBES** Bangla speech emotion datasets.
