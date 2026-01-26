@@ -10,7 +10,12 @@ This repository contains visualizations supporting a research study on **Bangla 
 Each image illustrates model performance (accuracy, confusion matrix, or reduction analysis) on the **SUBESCO** and **KBES** Bangla speech emotion datasets.
 
 ---
+### Methodology 
+<img width="1283" height="708" alt="Image" src="https://github.com/user-attachments/assets/ae4ade26-1885-4d4f-b8df-3f7a8c83a8d5" />
 
+### Multifaceted Dataset Architecture
+
+<img width="2816" height="1536" alt="Image" src="https://github.com/user-attachments/assets/69d5e1a8-f2d3-4a25-845f-3b41b708c9ff" />
 ### 📊 Model Performance Visuals
 
 #### ✅ Decision Tree
