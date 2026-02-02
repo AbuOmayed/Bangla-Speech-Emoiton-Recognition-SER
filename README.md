@@ -6,6 +6,18 @@ The primary objective of this repository is to present **performance visualizati
 
 ---
 
+## Abstract
+
+Speech Emotion Recognition (SER) plays a vital role in Human–Computer Interaction (HCI); however, robust SER systems for the Bangla language remain largely underexplored. This work proposes a novel framework that enhances Bangla SER performance through extensive feature fusion and a multifaceted dimensionality reduction strategy.
+
+We fuse diverse acoustic features from the time domain, frequency domain, and time–frequency domain—including Amplitude Envelope, Zero-Crossing Rate, Mel-Frequency Cepstral Coefficients (MFCCs), and Spectral Centroid—by computing statistical descriptors. To construct a compact yet discriminative feature representation, we apply Principal Component Analysis (PCA), Independent Component Analysis (ICA), and Linear Discriminant Analysis (LDA).
+
+The proposed approach is evaluated on two Bangla emotional speech datasets: SUBESCO (7 emotions) and KBES (9 emotions), using four machine learning classifiers—k-Nearest Neighbors (k-NN), Decision Tree, Random Forest, and XGBoost. Experimental results show that the Random Forest classifier combined with the proposed feature-reduction pipeline achieves the best performance, with 97.78% accuracy on KBES and 87.14% accuracy on SUBESCO, while utilizing only a fraction of the original feature set.
+
+These results demonstrate that the proposed strategy significantly improves emotion recognition accuracy while substantially reducing feature dimensionality, leading to more efficient SER systems for under-resourced languages such as Bangla.
+
+---
+
 ## 🔍 Key Contributions
 
 - Feature fusion with summary statistics  
