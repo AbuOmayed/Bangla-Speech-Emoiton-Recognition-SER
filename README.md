@@ -137,22 +137,29 @@ Performance analysis of different classifiers on both datasets.
 
 ---
 
-## 📌 Notes
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/Bangla-Speech-Emotion_Recognition-SER.git](https://github.com/your-username/Bangla-Speech-Emotion_Recognition-SER.git)
 
-- This repository focuses on **visual and experimental results only**
-- The code implementation is part of the associated research work
-- Figures are intended for **journal/conference publication support**
 
----
-## 📬 Contact
+## 📖 Citation
 
-**Author:** Abu Omayed  
-📧 **Email:** abuomayed@gmail.com  
+If you use our dataset or methodology in your research, please cite our paper:
 
----
+```bibtex
+@inproceedings{omayed2025multifaceted,
+  title={A Multifaceted Approach to Bangla Speech Emotion Recognition Using Hybrid Feature Fusion and Dimensionality Reduction},
+  author={Omayed, Abu and Iqbal, MD Asif and Bhuiyan, Mohammed Moniruzzaman},
+  booktitle={2025 28th International Conference on Computer and Information Technology (ICCIT)},
+  pages={4753--4758},
+  year={2025},
+  organization={IEEE}
+}
+```
+
 ## 📜 License
-
-This project is for **academic and research purposes only**.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
