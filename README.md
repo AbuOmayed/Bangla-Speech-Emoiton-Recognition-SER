@@ -1,4 +1,4 @@
-# Bangla Speech Emotion Recognition (SER)
+# A Multifaceted Approach to Bangla Speech Emotion Recognition Using Hybrid Feature Fusion and Dimensionality Reduction
 
 This repository contains visual results supporting a research study on **Bangla Speech Emotion Recognition (SER)** using traditional machine learning models. The experiments are conducted on two benchmark Bangla emotional speech datasets: **SUBESCO** and **KBES**.
 
