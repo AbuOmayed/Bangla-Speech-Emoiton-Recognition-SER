@@ -145,7 +145,7 @@ Performance analysis of different classifiers on both datasets.
 
 ## 📖 Citation
 
-If you use our dataset or methodology in your research, please cite our paper:
+Please cite our paper:
 
 ```bibtex
 @inproceedings{omayed2025multifaceted,
