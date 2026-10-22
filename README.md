@@ -137,12 +137,6 @@ Performance analysis of different classifiers on both datasets.
 
 ---
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/Bangla-Speech-Emotion_Recognition-SER.git](https://github.com/your-username/Bangla-Speech-Emotion_Recognition-SER.git)
-
-
 ## 📖 Citation
 
 Please cite our paper:
